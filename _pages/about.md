@@ -20,4 +20,3 @@ News and Events
 ======
 - Present at International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA, July 2025.
 
-
