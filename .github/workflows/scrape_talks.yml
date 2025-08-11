@@ -31,7 +31,7 @@ jobs:
     - name: Commit changes
       run: |
         git config user.name "atomxt"
-        git config user.email "atomxt@users.noreply.github.com"
+        git config user.email "xu-tong@outlook.com"
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
         git push
