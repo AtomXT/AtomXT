@@ -19,7 +19,7 @@ Research Interests
 News and Events
 ======
 - Present at INFORMS Annual Meeting, Atlanta, GA, Oct 2025
-- Present at International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA, July 2025.
+- Present at International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA, July 2025
 - Start as PhD Software Engineering Intern at Uber Technologies, Sunnyvale, CA (Jun–Sep 2025)
 - Our paper, [Integer Programming for Learning Directed Acyclic Graphs from Non-identifiable Gaussian Models](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf032/8121152), is published in Biometrika.
 - Poster present at Midwest Optimization & Statistical Learning Conference, Evanston, IL, May 2025 

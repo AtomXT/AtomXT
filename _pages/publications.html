@@ -12,25 +12,27 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+<p align="justify">
+  <h2>Journal Articles</h2>
+  <ol reversed>
+    <li><strong>Xu, T.</strong>, Taeb, A., Küçükyavuz, S., & Shojaie, A. (2025). Integer Programming for Learning Directed Acyclic Graphs from Non-identifiable Linear Models. <em>Biometrika</em>. [<a href="https://doi.org/10.1093/biomet/asaf032" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+    
+    <li>Ravikumar, V., <strong>Xu, T.</strong>, Al-Holou, W. N., Fattahi, S., & Rao, A. (2023). Efficient Inference of Spatially-varying Gaussian Markov Random Fields with Applications in Gene Regulatory Networks. <em>IEEE/ACM Transactions on Computational Biology and Bioinformatics</em>. [<a href="https://ieeexplore.ieee.org/abstract/document/10144439" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+  </ol>
+  
+  <h2>Preprints</h2>
+  <ol reversed>
+    <li><strong>Xu, T.</strong>, Küçükyavuz, S., Shojaie, A., & Taeb, A. An Asymptotically Optimal Coordinate Descent Algorithm for Learning Bayesian Networks from Gaussian Models. <em>Journal of Machine Learning Research (JMLR), Minor Revision</em>. [<a href="https://arxiv.org/abs/2408.11977" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+  </ol>
+  
+  <h2>Working Papers</h2>
+  <ul>
+    <li><strong>Xu, T.</strong>, Taeb, A., Küçükyavuz, S., & Shojaie, A. (2025). Asymptotically Optimal Learning of Bayesian Networks under Unknown Interventions from Gaussian Models.</li>
+    
+    <!-- <li><strong>Xu, T.</strong>, Zhang, X., Küçükyavuz, S., Shojaie, A., & Taeb, A. (2025). Best Coordinate Descent: A Consistent Algorithm for \(\ell_0\)-Penalized Sparse Regression.</li> -->
+    
+    <li><strong>Xu, T.</strong>, Fattahi, S., Gómez, A., & Küçükyavuz, S. (2025). Adaptive Linear Cuts for the Convex Hull of Low-Rank Quadratic Programming with Indicators.</li>
+  </ul>
+</p>
 
 
