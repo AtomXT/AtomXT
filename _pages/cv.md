@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="https://drive.google.com/file/d/1XFNPLzxKcXw8ss_ZIOCLTy4xBWGUwr_e/view?usp=drive_link" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
 
 
 <h2>Education</h2>
@@ -27,7 +28,7 @@ redirect_from:
 
 <h2>Experience</h2>
 <ul>
-  <li><strong>PhD Software Engineering Intern</strong>, Uber Technologies, Sunnyvale, CA (June 2025 - Sept 2025)
+  <li>PhD Software Engineering Intern, Uber Technologies, Sunnyvale, CA (June 2025 - Sept 2025)
     <ul>
       <li>Researched and implemented deep learning models for preorder delivery time estimation</li>
     </ul>
@@ -52,7 +53,7 @@ redirect_from:
   <li>Artificial Intelligence and Statistics (AISTATS)</li>
 </ul>
 
-<h3>Presentations and Posters</h3>
+<h2>Presentations and Posters</h2>
 <ul>
   <li>INFORMS Annual Meeting, Atlanta, GA, Oct 2025</li>
   <li>International Conference on Continuous Optimization, Los Angeles, CA, July 2025</li>
