@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Industrial Engineering and Management Sciences at Northwestern University, where I am fortunate to be advised by Professor [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/).
+I am a PhD candidate in the Industrial Engineering and Management Sciences department at Northwestern University, where I am fortunate to be advised by Professor [Simge Küçükyavuz](https://users.iems.northwestern.edu/~simge/).
 
 Research Interests
 ======
 - Mixed Integer Optimization
 - Statistical Learning
-- Causal Inference
+- Causal Discovery
 
 
 News and Events
