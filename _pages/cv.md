@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="https://drive.google.com/file/d/1XFNPLzxKcXw8ss_ZIOCLTy4xBWGUwr_e/view?usp=drive_link" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
 
 
 <h2>Education</h2>
